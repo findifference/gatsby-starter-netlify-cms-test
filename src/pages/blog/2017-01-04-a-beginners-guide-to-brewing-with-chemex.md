@@ -11,7 +11,11 @@ tags:
   - stock
   - stonk
 ---
-Meme stocks\
+Meme stocks
+
+![Meme stocks](https://profittrends.com/wp-content/uploads/2021/06/20210608_PT_HeroPic.jpeg "Meme stocks")
+
+\
 1/ What is a "meme stock"?\
 \
 The useful definition of a meme stock is a stock which moves as a function of its investor acquisition cost not its earnings power. Some quantitative definitions of this concept 
