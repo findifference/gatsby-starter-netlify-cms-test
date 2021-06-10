@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: A beginners’ guide to Meme stocks
-date: 2017-01-04T15:04:10.000Z
+date: 2021-06-10T11:16:32.678Z
 description: The useful definition of a meme stock is a stock which moves as a
   function of its investor acquisition cost not its earnings power.
 featuredpost: false
